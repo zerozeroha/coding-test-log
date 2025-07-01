@@ -21,7 +21,7 @@ function solution(names) {
   return answer
 }
 
-// 정답
+// 문제풀이
 function solution(names) {
   var answer = []
 
