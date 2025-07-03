@@ -41,7 +41,7 @@ function solution(num_list) {
 
 
 // 풀이
-function solution(num_list) {
+function solutionAlt(num_list) {
   // 최종 반환할 값을 저장할 변수
   var answer = 0;
 
