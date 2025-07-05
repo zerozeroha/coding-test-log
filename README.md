@@ -11,7 +11,7 @@
 | 2025-07-03 | [Lv.0 2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894)                 | ✅   | ✅   |
 | 2025-07-03 | [Lv.0 배열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181895)              | ✅   | ✅   |
 | 2025-07-03 | [Lv.0 첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896)    | ✅   | ✅   |
-| 2025-07-03 | [Lv.0 리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)            | ✅   |      |
+| 2025-07-03 | [Lv.0 리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)            | ✅   | ✅      |
 | 2025-07-03 | [Lv.0 가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898)            | ✅   |      |
 | 2025-07-04 | [Lv.2 연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | ✅   |      |
 | 2025-07-04 | [Lv.0 두 수의 합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120802)        | ✅   |      |
