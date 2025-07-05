@@ -16,7 +16,7 @@
 | 2025-07-04 | [Lv.2 연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | ✅   | 다시풀기 |
 | 2025-07-04 | [Lv.0 두 수의 합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120802)        | ✅   | ✅       |
 | 2025-07-04 | [Lv.1 이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)        | ✅   | ✅       |
-| 2025-07-0  | []                                                                                                | ✅   |          |
+| 2025-07-0  | [같은 숫자는 싫어]                                                                                | ✅   |          |
 | 2025-07-0  | []                                                                                                | ✅   |          |
 | 2025-07-0  | []                                                                                                | ✅   |          |
 | 2025-07-0  | []                                                                                                | ✅   |          |
