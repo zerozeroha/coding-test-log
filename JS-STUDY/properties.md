@@ -1,4 +1,4 @@
-# JavaScript 필수 속성 정리 (.md)
+# JavaScript 필수 속성 정리
 
 ## 개요
 
